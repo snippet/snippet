@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff
 - 👀 I’m interested in Software Developement 
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Scraper Web Data Projects
+- 💞️ I’m looking to collaborate on Data Scraping Projects
 - 📫 Reach me from @snippet
 
 <!---
