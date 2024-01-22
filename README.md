@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeff
-- 👀 I’m interested in Software Developement 
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Software Engineer 
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Scraping Projects
 - 📫 Reach me from @snippet
 
